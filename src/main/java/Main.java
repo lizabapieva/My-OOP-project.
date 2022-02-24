@@ -9,6 +9,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         MyApplication myApplication = new MyApplication();
 //        myApplication.start();
+
         myApplication.start();
 
     }
